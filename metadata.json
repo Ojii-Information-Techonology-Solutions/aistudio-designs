@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Industry Webshop Architecture Hub",
+  "description": "A modular multi-industry webshop architecture featuring decoupled folder systems: Charlène Paris (Haute Couture), Tomas Heavy Machinery (Equipment Rental), Joseph Boutique Residences (Rentable Rooms & Suites), Clarissa (Fine Dining Tablescapes), Plantito (Botanical Flora), and Sandra (Artisan Lifestyle).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
